@@ -1,0 +1,14 @@
+{
+  "name": "module02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno S Bertolani <brunosbertolani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "sucrase": "^3.10.1"
+  }
+}
