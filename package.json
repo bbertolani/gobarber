@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Bruno S Bertolani <brunosbertolani@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
