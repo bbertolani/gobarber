@@ -1,9 +1,11 @@
 import express from 'express';
 import router from './router';
+import './database';
 
 class App {
   constructor() {
     this.server = express();
+
     this.middlewares();
     this.routers();
   }
